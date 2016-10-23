@@ -1,0 +1,211 @@
+.page-body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.page-header {
+    position: relative;
+    z-index: 2;
+    min-height: 56px;
+    padding: 0px;
+
+}
+
+.main-menu {
+    margin: 0px;
+    vertical-align: center;
+    text-align: center;
+}
+
+.main-menu ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.main-menu li {
+    display: inline-block;
+
+}
+
+.main-menu a {
+    font-weight: bold;
+    color: #000000;
+    text-decoration: none;
+    text-align: center;
+}
+
+.main-menu img {
+
+    z-index: 3;
+    text-align: center;
+}
+
+.main-picture {
+    text-align: center;
+}
+
+.main-picture img {
+    margin-top: 0px;
+}
+
+.true-town {
+    margin: 0px;
+    padding: 0px;
+    min-height: 256px;
+    clear: both;
+    text-align: center;
+}
+
+.true-town-discription{
+    margin: 0px;
+    text-align: center;
+    vertical-align: center;
+    width: 33%;
+    height: 257px;
+    float: left;
+    background-color: rgb(129,179,210);
+    color: white;
+}
+
+.true-town-picture {
+    width: 66%;
+    float: right;
+}
+
+.ad {
+    margin: 0px;
+    padding: 0px;
+    min-height: 256px;
+    clear: both;
+    text-align: center;
+}
+
+.ad-house {
+    padding: 0px;
+    text-align: center;
+    vertical-align: middle;
+    width: 33%;
+    float: left;
+}
+
+.ad-burger {
+
+    text-align: center;
+    vertical-align: middle;
+    width: 33%;
+    float: right;
+}
+
+.ad-present {
+
+    text-align: center;
+    vertical-align: middle;
+    width: 33%;
+    float: right;
+}
+
+.devils-bridge {
+    margin: 0px;
+    padding: 0px;
+    clear: both;
+    text-align: center;
+}
+
+.devils-bridge-picture {
+    float: left;
+    width: 66%;
+}
+
+.devils-bridge-discription {
+    float: right;
+    width: 33%;
+    height: 257px;
+    text-align: center;
+    color: white;
+    background-color: rgb(129,179,210);
+}
+
+.benefits {
+    margin: 0;
+    padding: 0;
+    clear: both;
+    min-height: 256px;
+    text-align: center;
+    background-color: rgb(238,238,238);
+}
+
+.benefits-square {
+    width: 33%;
+    float: left;
+}
+
+.benefits-road {
+    width: 33%;
+    float: right;
+}
+
+.benefits-tourists {
+    width: 33%;
+    float: right;
+}
+
+.interested {
+    margin: 0px;
+    min-height: 256px;
+    text-align: center;
+    background-color: white;
+}
+
+.search-form {
+    text-align: center;
+    padding-left: 27%;
+}
+
+.search-header {
+    width: 568px;
+    height: 86px;
+    background-color: rgb(118,99,87);
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.search-content {
+    width: 568px;
+    height: 395px;
+}
+
+.map {
+    margin: 0px;
+    text-align: center;
+    min-width: 1200px;
+    min-height: 593px;
+}
+
+.page-footer {
+    margin: 0px;
+    min-height: 120px;
+    clear: both;
+    text-align: center;
+}
+
+.footer-hashtag {
+    float: left;
+    width: 33%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.footer-soc-icons {
+    float: right;
+    width: 33%;
+    text-align: center;
+}
+
+.footer-author {
+    float: right;
+    width: 33%;
+    text-align: center;
+}
