@@ -177,6 +177,19 @@
     height: 395px;
 }
 
+.search-button {
+    text-align: center;
+    width: 458px;
+    height: 58px;
+    background-color: rgb(129,179,210);
+    font-weight: bold;
+}
+
+.search-button a{
+    text-decoration: none;
+    color: white;
+}
+
 .map {
     margin: 0px;
     text-align: center;
